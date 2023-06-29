@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Giacomo and I'm a pharmacist currently learning Data Science in Madrid, Spain.
+You can ask me about pharmacy, chemistry, philosophy or science fiction, I would be glad to help you in any way I can.  
+You can contact me by my personal e-mail, giamosalerno@gmail.com, I'll be glad to lend you a hand!
 <!--
 **GiamoSalerno/GiamoSalerno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
