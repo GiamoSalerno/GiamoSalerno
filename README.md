@@ -1,6 +1,10 @@
-<p align="center">
+<div id="header" align="center">
   <img src="https://github.com/GiamoSalerno/GiamoSalerno/blob/main/Ciro%20giacomo%20salerno%20escuela%20(12).png" alt="Banner">
-</p>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/giamosalerno/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ### Hi there 👋
 
