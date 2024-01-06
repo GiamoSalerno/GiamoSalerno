@@ -16,7 +16,8 @@ In my journey, I've seamlessly blended my pharmaceutical expertise with the intr
 
 What sets me apart? My commitment to continuous learning and a genuine love for tackling challenges head-on. I thrive in dynamic environments and am always up for learning something new. 💡
 
-Currently, I'm on the lookout for opportunities to contribute my interdisciplinary skills and innovative mindset to a team ready to make a significant impact. Let's connect and explore how we can collaborate to bring data-driven excellence to the forefront! 
+Currently, I'm on the lookout for opportunities to contribute my interdisciplinary skills and innovative mindset to a team ready to make a significant impact. Let's connect and explore how we can collaborate to bring data-driven excellence to the forefront!
+</p> 
 <!--
 **GiamoSalerno/GiamoSalerno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
