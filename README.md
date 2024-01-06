@@ -6,6 +6,8 @@
   </a>
 </div>
 
+<p align="justify">
+
 ### Hi there 👋
 
 I'm Giacomo Salerno, a versatile professional with a strong foundation in pharmacy and a newfound passion for the exciting world of data science. 🚀
